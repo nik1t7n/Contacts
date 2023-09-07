@@ -22,14 +22,14 @@ This Python code is a simple contact manager with various features:
 </ol>
 <code>python main.py</code><br>
 
-<br><b><br>Features:</b>
+<b><br>Features:</b>
 <ul>
     <li>Uses Colorama for colored output.</li>
     <li>Data storage with pickle.</li>
 </ul>
 
 <b>Screenshots:</b>
-<br><img src="screenshots/contacts.png" alt="Contact's Interface Screenshot" width="400">
+<br><br><img src="screenshots/contacts.png" alt="Contact's Interface Screenshot" width="400">
 
 <b>Author:</b> Nik1t7n
 
