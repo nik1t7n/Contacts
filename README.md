@@ -14,10 +14,10 @@ This Python code is a simple contact manager with various features:
 <ol>
     <li>Install required dependencies:</li>
 </ol>
-<code>pip install -r requirements.txt</code>
+<code>pip install -r requirements.txt<br></code>
 
 <ol start="2">
-    <li>Run the program:</li>
+    <li>Run the program:<br></li>
 </ol>
 <code>python main.py</code>
 
