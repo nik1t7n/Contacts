@@ -22,7 +22,7 @@ This Python code is a simple contact manager with various features:
 </ol>
 <code>python main.py</code><br>
 
-<b>Features:</b>
+<br><b><br>Features:</b>
 <ul>
     <li>Uses Colorama for colored output.</li>
     <li>Data storage with pickle.</li>
