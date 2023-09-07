@@ -17,6 +17,7 @@ This Python code is a simple contact manager with various features:
 <code>pip install -r requirements.txt</code><br>
 
 <ol start="2">
+    <br>
     <li>Run the program:</li>
 </ol>
 <code>python main.py</code><br>
@@ -28,7 +29,7 @@ This Python code is a simple contact manager with various features:
 </ul>
 
 <b>Screenshots:</b>
-<img src="screenshots/contacts.png" alt="Contact's Interface Screenshot" width="400">
+<br><img src="screenshots/contacts.png" alt="Contact's Interface Screenshot" width="400">
 
 <b>Author:</b> Nik1t7n
 
